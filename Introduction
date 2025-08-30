@@ -1,0 +1,15 @@
+What is Linux?
+
+Linux is a free and open-source operating system (OS) developed by Linus Torvalds in 1991 and continues to evolve. 
+Since then, Linux has become a global phenomenon, powering everything from supercomputers to servers,
+mobile phones to personal computers. Known for its stability, security, and flexibility, Linux is a popular choice for both personal and professional use.
+
+Linux is an operating system similar to Windows or macOS but differs in how it works and its free, open-source nature. At its core lies the Linux kernel, which is the central component of the system. The kernel is responsible for managing the computer's hardware, such as the CPU, memory, and peripherals, and allows all software applications to interact with the physical hardware.
+
+The kernel acts as a bridge between software applications and the computer hardware. When a software application wants to do something hardware-related, like save a file or display something on the screen, it sends a request to the kernel. The kernel translates this request into instructions that the hardware can understand.
+
+Linux supports multi-tasking and multi-user environments. This means multiple users can use the system simultaneously, and each can run multiple programs at the same time. This is especially useful in server environments where many people need to access the same system for different tasks.
+
+The Linux file system is hierarchically organized, starting from the root directory (denoted as "/") and expanding into sub-directories. This organization makes it easy to manage and locate files.
+
+Around the kernel, there are many software tools and libraries that add extra functionality. These can include graphical user interfaces (GUIs), system utilities, and application software. Users can mix and match these components to create a Linux distribution that meets their specific needs. Linux distributions package the kernel with a selection of software to provide a complete operating system ready for use. Popular Linux distributions include Ubuntu, Fedora, and CentOS.
